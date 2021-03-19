@@ -1,0 +1,165 @@
+#LogoName{
+    font-size: 36px;
+    padding: 5px;
+    margin-top: -70px;
+}
+#LogoName:hover{
+    color: purple;
+}
+#NavbarTabs{
+    margin-left: 220px;
+}
+#NavbarTabs li{
+    font-size: 16px;
+    padding: 0px 3px;
+}
+#NavbarTabs li a:hover{
+    color: #544db4;
+}
+#BGimgText{
+    background: url(images/motlawa-river-gdansk-poland.jpg);
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 600px;
+}
+#BGimgText h1, p, .btn{
+    margin: 0px 100px;
+}
+#BGimgText h1{
+    margin-top: 200px;
+    font-size: 55px;
+    font-weight: bold;
+}
+#Btn{
+    background-color: #780776;
+    border: 1px solid #780776;
+    margin-bottom: 20px;
+}
+#Btn:hover{
+    background-color: rgb(167, 23, 167);
+}
+#Card{
+    text-align: justify;
+    margin: 5px;
+    border: none;
+}
+#FirstRowCard #CardImg{
+    margin: 50px 170px;
+}
+#CardText h3{
+    margin-bottom: 10px;
+}
+#CardText h3, p{
+    text-align: center;
+}
+.about-head{
+    margin-left: 100px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #000;
+}
+.about-text p{
+    text-align: left;
+    width: 450px;
+    color: #807d7d;
+}
+.about-img{
+    position: absolute;
+    top: 1150px;
+    left: 650px;
+}
+.icons{
+    margin: 80px 550px;
+}
+.icons a{
+    padding: 5px;
+}
+.icons a img:hover{
+    cursor: pointer;
+    transition: 0.3s;
+    transform: scale(1.1);
+}    
+.text p{
+    font-weight: 600;
+    font-size: 28px;
+    text-align: justify;
+}
+.skills-container{
+    background-color: #f1f3f5;
+    padding: 3px;
+}
+.skill-img{
+    margin: 70px;
+}
+.skills-text{
+    position: absolute;
+    top: 2010px;
+    left: 680px;
+}
+.skills-text h1{
+    font-weight: 600;
+}
+.skills-text p{
+    width: 70%;
+    text-align: justify;
+}
+.progress{
+    width: 70%;
+    margin: 40px;
+}
+#SecRowCard #CardImg{
+    border-radius: 120px;
+    margin: 10px 135px;
+}
+#CardClientName{
+    font-size: 20px;
+    font-weight: 700;
+    color: #544db4;
+}
+.card-container{
+    background-color: #807d7d;
+    padding: 50px;
+}
+.card-container h1{
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.card-container hr{
+    margin-left: 600px;
+    margin-bottom: 50px;
+    width: 10%;
+    border-top: 5px solid #fff;
+    background-color: #fff;
+}
+.footer{
+    background-color: #363434;
+}
+.footer-text{
+    color: #fff ;
+    margin: 40px 110px; 
+}
+.footer-text h4{
+    margin-top: 40px;
+    color: #544db4;
+}
+.footer-text p{
+    text-align: left;
+    width: 400px;
+    margin: 0px 0px 10px;
+}
+.footer-text a{
+    text-decoration: none;
+    color: #fff;
+}
+.footer-text hr{
+    border-top: 3px solid #fff;
+}
+.footer-text-hover p{
+    color: #807d7d;
+}
+.footer-text-hover p a:hover{
+    color: #544db4;
+    cursor: pointer;
+}
